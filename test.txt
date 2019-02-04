@@ -1,0 +1,5 @@
+text
+
+
+Have to add files for them to be tracked through version control.
+git add to track files
